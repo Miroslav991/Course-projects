@@ -1,3 +1,4 @@
+![Java](https://img.shields.io/badge/Java-17-brightgreen)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![GitHub forks](https://img.shields.io/github/forks/MiroslavKolosnjaji/Trafic-Light)
 
